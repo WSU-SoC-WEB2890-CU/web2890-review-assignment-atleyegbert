@@ -1,1 +1,64 @@
 TODO: List here all the changes you made to given template to adapt it to your needs
+
+1. The button in the banner section of my website now says "See What I've Been Up To" 
+    and links to the portfolio section of my website. I felt this change was benefitial 
+    for those using my site because it will directly connect them to the section of my site
+    that shows my latest work. This would likely be the primary reason for visiting my site
+    I felt that it was important to include a link to it near the top of the page.
+
+2. I changed each of navigation tabs to match the changes I made to each of the sections on 
+    the page. I added an "About", "Resume", and "Contact" tabs. Each of the tabs in the 
+    navigation bar link to a different section of the page that relates to the tab. The 
+    "About" tab links to the small about section of the page, the "Resume" tab links to the
+    Education and Experience sections of the page, the "Testimonials" tab links to the 
+    "Testimonials" section, ect. I felt that this change would be benefitial to my site 
+    because users would be able to easily click to the section of the page that they want to
+    get to instead of having to scroll.
+    
+3. I removed the section for companies that support or endorsed the site and replaced it with a 
+    section about my education. I felt that the section for these companies logos did not make 
+    sense for a portfolio website for me so that is why I removed it and replaced it with
+    something that I felt was more appropriate.
+
+4. For the "Education" and "Experience" sections of this page, I chose to use a Bootstrap list group 
+    to organize the information in a clear way and so that it would also resemble a resume. I also included
+    a link in the education section of the site that links to Weber State's website for the Web and User 
+    Experience Major and a link in the Experience section that would allow users to view my full resume.
+    I felt that a design resembling a resume would be benefitial to add to my site because it would be 
+    easily recognized by most of my users and that it made the information easier for users to look at and read.
+    I felt that including a link to learn more about those sections would also help users who are looking for more
+    information about my program and for more information about my previous experience.
+
+5. I changed the "Frequently Asked Questions" accordian section to be a breif introduction to a 
+    couple of my most recent and significant projects. I did not feel that an FAQ section was 
+    really necessary for this type of a website so again I changed it to be something more 
+    appropriate. I thought users would want a breif introduction to some of these projects so that 
+    they can learn a little more information about them than what is provided in the "Portfolio" 
+    section.
+
+6. I added a link at the bottom of each of the accordian dropdown content sections for my recent 
+    projects. Each of the links let users know that they will be taken to a seperate page to learn 
+    more about that project. Although they do not currently link to those projects, that is what I would
+    do in the future for a real portfolio. I felt that this would be a benefitial addition to my webpage
+    because users for my site would likely want to learn more about individual projects. 
+
+7. I changed the "Services" section from the original site to be a "My Recipe for Great Design" section. 
+    Although a services section could be a great addition to a portfolio website, I did not feel like it 
+    was something that would add value to my site specifically. By changing it to a section for "My Recipe
+    for Great Design" I could show users very quickly what qualities I could bring to a team and what my 
+    values as a desinger are. Since my site also focuses on web accessibility, I felt that this was also 
+    a great oppurtunity to expand on that. I mostly kept the layout the same, but I eliminated some elements
+    that I felt did not relate or add to this section.
+
+8. I made changes to the footer to better fit my needs for this website. I eliminated the section in the footer for 
+    links to products because I do not have any products to advertise at this time. For the "Useful Links" section I added 
+    links to Weber State University's Website and to their page for the Web and User Experience program that I am apart of. 
+    I also changed the links in the "Contact" section to reflect my information. I felt that these changes were
+    more appropriate for my site and informative for my users. 
+
+9. I changed the filter buttons above my portfolio section to better represent the content in my portfolio. 
+    I changed them to be for "Websites", "Design", "Animation" and "Photoshop". I felt that this change would make it 
+    easier for users to locate the type of projects that they would like to learn more about and that would 
+    fit thier needs for the type of skill they are looking for. 
+
+10. 

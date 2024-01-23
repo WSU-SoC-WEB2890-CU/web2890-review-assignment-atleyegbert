@@ -1,11 +1,15 @@
 // THEME COLORS 
-$teal-dark:    #0d503c;
-$teal-light:  #20c997;
-$orange: #fd7e14;
-$footer: #151414;
+$teal-dark:    #247BA0;
+$teal-light:  #59B3D9;
+$orange: #A40E4C;
+$footer: #212121;
 
 $primary: $teal-dark;
 $secondary: $teal-light;
+
+$font1: 'Playfair Display', serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
 // ACCORDION OVERRIDES
 $accordion-padding-y: 1.5rem;
